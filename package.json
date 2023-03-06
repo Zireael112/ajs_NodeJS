@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "node src/index.js"
+ },
+  "dependencies": {
+    "@zireael112/ajs": "^1.0.0"
+  }
+}
